@@ -21,7 +21,18 @@
 20,Joachim
 21,Anders
 22,Tomas
-23,Carl-Willy
-24,Mikael
+23,Compbaseday 800!
+24,WirelessCar cake!
 25,Midsommar!
-26,Tobias
+26,WirelessCar
+27,WirelessCar
+28,WirelessCar
+29,WirelessCar
+30,WirelessCar
+31,WirelessCar
+32,WirelessCar
+33,WirelessCar
+34,WirelessCar
+90,Carl-Willy
+91,Mikael
+92,Tobias
