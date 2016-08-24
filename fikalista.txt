@@ -1,39 +1,22 @@
 # CSV: week nr and person (all in UTF-8 of course)
 # run "export https_proxy=httppxgot.srv.volvo.com:8080"
 # for git to work with https behind proxy
-3,Mia
-4,Jens
-5,Anton
-6,Björn
-7,Cecilia
-8,Renée
-9,Ingen!
-10,Ulf
-11,Eva
-12,Långfredag
-13,Johan
-14,Peter
-15,Helena
-16,Compbaseday!
-17,Jörgen
-18,Klämdag
-19,Eva
-20,Joachim
-21,Anders
-22,Tomas
-23,Compbaseday 800!
-24,WirelessCar cake!
-25,Midsommar!
-26,WirelessCar
-27,WirelessCar
-28,WirelessCar
-29,WirelessCar
-30,WirelessCar
-31,WirelessCar
-32,WirelessCar
-33,WirelessCar
-34,WirelessCar
-90,Carl-Willy
-91,Mikael
-92,Tobias
+34,Helena
+35,Anton
+36,Mikael
+37,Tomas
+38,Johan T
+39,Johan I
+40,Carl-Willy
+41,Renée
+42,Peter
+43,Jörgen
+44,Anders
+45,Joachim
+46,Cecilia
+47,Björn
+48,David
+49,Jens
+50,Tobias
+51,Maria
 93,Test!
