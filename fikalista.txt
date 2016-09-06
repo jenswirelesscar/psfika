@@ -3,14 +3,14 @@
 # for git to work with https behind proxy
 34,Helena
 35,Anton
-36,Mikael
+36,Jörgen
 37,Tomas
 38,Johan T
 39,Johan I
 40,Carl-Willy
 41,Renée
 42,Peter
-43,Jörgen
+43,Mikael
 44,Anders
 45,Joachim
 46,Cecilia
