@@ -2,9 +2,9 @@
 # run "export https_proxy=httppxgot.srv.volvo.com:8080"
 # for git to work with https behind proxy
 1,Gott Nytt År!
-2,Maria
+2,Helena
 3,Jon
-4,Helena
+4,Maria
 5,Anton
 6,Jörgen
 7,Tomas
