@@ -6,13 +6,13 @@
 3,Jon
 4,Maria
 5,Anton
-6,Jörgen
+6,Peter I
 7,Tomas
 8,Johan T
 9,Johan I
 10,Daniel
 11,Renée
-12,Peter I
+12,Jörgen
 13,Mikael
 14,Anders
 15,Glad Påsk!
