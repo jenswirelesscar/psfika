@@ -24,4 +24,7 @@
 21,Tobias
 22,Erik
 23,Peter W
+24,Pär
+25,Glad midsommar!
+26,Joel
 93,Test!
